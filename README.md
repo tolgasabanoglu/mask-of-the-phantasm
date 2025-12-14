@@ -1,4 +1,4 @@
-# Nightcrawler - Dark & Green Routes in Berlin
+# Mask of the phantasm - Dark & Green Routes in Berlin
 
 Generate walking routes through Berlin's darkest and greenest paths using satellite data.
 
