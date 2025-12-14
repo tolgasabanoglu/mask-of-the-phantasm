@@ -4,7 +4,7 @@ Generate walking routes through Berlin's darkest and greenest paths using satell
 
 ## Overview
 
-Nightcrawler creates circular or polygon-shaped walking routes in Berlin that prioritize two key metrics:
+This project creates circular or polygon-shaped walking routes in Berlin that prioritize two key metrics:
 
 - **Low nightlight values** - Routes through the darkest areas with minimal light pollution
 - **High NDVI values** - Routes through areas with dense vegetation and greenery
@@ -37,7 +37,7 @@ The application fetches real-time satellite data from Google Cloud Platform to d
 ## Project Structure
 
 ```
-nightcrawler/
+mask-of-the-phantasm/
 ├── backend/           # Python FastAPI backend
 ├── frontend/          # React frontend application
 ├── data/             # Berlin OSM data and cache
